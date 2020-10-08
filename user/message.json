@@ -1,0 +1,19 @@
+{
+	"message": {
+		"general_data": {
+		"Name": "Creig",
+		"Age": 30,
+		"Address": "bukkene 1",
+		"Disabilities": null,
+		"Cycle": true,
+		"Cross_country_ski": true,
+		"Alpine_ski": false,
+		"Snowboard": true
+		}
+		},
+	"recipient": {
+		"address": "127.0.0.1",
+		"port": 1340,
+		"pubkey": "sn-backend-pubkey.pem"
+	}
+}
